@@ -25,6 +25,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-[#07111f]">
       <head>
+        <meta name="yandex-verification" content="3def90d165db81b0" />
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="keywords" content="lev casino, lev casino зеркало, лев казино, лев казино бонус, лев казино онлайн, лев казино регистрация" />
